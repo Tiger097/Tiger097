@@ -1,0 +1,47 @@
+# Different ways to test multiple
+# flags at once in Python
+x, y, z = 0, 1, 0
+
+if x == 1 or y == 1 or z == 1:
+    print('passed')
+
+if 1 in (x, y, z):
+    print('passed')
+
+# These only test for truthiness:
+if x or y or z:
+    print('passed')
+
+if any((x, y, z)):
+    print('passed')
+     # elements in tuples
+list1 = ('1', '2', '3', '4')
+ 
+# put any characher to join
+s = "-"
+ 
+# joins elements of list1 by '-'
+# and stores in string s
+s = s.join(list1)
+ 
+# join use to join a list of
+# strings to a separator s
+print(s)
+list1 = {'1', '2', '3', '4', '4'}
+ 
+# put any characher to join
+s = "-#-"
+ 
+# joins elements of list1 by '-#-'
+# and stores in string s
+s = s.join(list1)
+ 
+# join use to join a list of
+# strings to a separator s
+print(s)
+dic = {'Geek': 1, 'For': 2, 'Geeks': 3}
+ 
+# Joining special character with dictionary
+string = '_'.join(dic)
+ 
+print(string)
