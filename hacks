@@ -1,0 +1,40 @@
+BackgroundFetchManager
+ƒ BackgroundFetchManager() { [native code] }
+Gamepad
+ƒ Gamepad() { [native code] }
+GeolocationPosition
+ƒ GeolocationPosition() { [native code] }
+PerformancePaintTiming
+ƒ PerformancePaintTiming() { [native code] }
+GamepadHapticActuator
+ƒ GamepadHapticActuator() { [native code] }
+LaunchQueue
+ƒ LaunchQueue() { [native code] }
+releaseEvents
+ƒ releaseEvents() { [native code] }
+HTMLBRElement
+ƒ HTMLBRElement() { [native code] }
+WebTransportBidirectionalStream
+ƒ WebTransportBidirectionalStream() { [native code] }
+TextTrackList
+ƒ TextTrackList() { [native code] }
+EncodedAudioChunk
+ƒ EncodedAudioChunk() { [native code] }
+SpeechSynthesisErrorEvent
+ƒ SpeechSynthesisErrorEvent() { [native code] }
+USBAlternateInterface
+ƒ USBAlternateInterface() { [native code] }
+confirm
+ƒ confirm() { [native code] }
+WindowControlsOverlay
+ƒ WindowControlsOverlay() { [native code] }
+debugger
+profileEnd
+ƒ profileEnd() { [native code] }
+screenX
+0
+ScreenDetailed
+ƒ ScreenDetailed() { [native code] }
+screen
+Screen {availWidth: 1280, availHeight: 680, width: 1280, height: 720, colorDepth: 24, …}
+undefined
