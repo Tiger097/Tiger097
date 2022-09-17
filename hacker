@@ -1,0 +1,33 @@
+bootstrap
+{Alert: ƒ, Button: ƒ, Carousel: ƒ, Collapse: ƒ, Dropdown: ƒ, …}
+GeolocationPosition
+ƒ GeolocationPosition() { [native code] }
+debugger
+console
+console {debug: ƒ, error: ƒ, info: ƒ, log: ƒ, warn: ƒ, …}
+monitor
+ƒ monitor() { [native code] }
+BatteryManager
+ƒ BatteryManager() { [native code] }
+Gamepad
+ƒ Gamepad() { [native code] }
+navigation
+Navigation {currentEntry: NavigationHistoryEntry, transition: null, canGoBack: false, canGoForward: false, onnavigate: null, …}
+MediaError
+ƒ MediaError() { [native code] }
+SyncManager
+ƒ SyncManager() { [native code] }
+Path2D
+ƒ Path2D() { [native code] }
+caches
+CacheStorage {}
+SVGNumberList
+ƒ SVGNumberList() { [native code] }
+closure_lm_250182
+P {src: Window, g: {…}, ma: 1}
+USBConfiguration
+ƒ USBConfiguration() { [native code] }
+crossOriginIsolated
+false
+confirm
+ƒ confirm() { [native code] }
