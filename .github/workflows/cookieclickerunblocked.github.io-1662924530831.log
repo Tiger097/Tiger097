@@ -1,0 +1,11 @@
+popper.min.js:4 Uncaught SyntaxError: Unexpected token 'export'
+Gamepad
+ƒ Gamepad() { [native code] }
+debugger
+undefined
+crypto
+Crypto {subtle: SubtleCrypto}
+propertyIsEnumerable
+ƒ propertyIsEnumerable() { [native code] }
+GeolocationCoordinates
+ƒ GeolocationCoordinates() { [native code] }
